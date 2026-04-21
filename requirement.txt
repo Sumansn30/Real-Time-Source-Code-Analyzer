@@ -26,4 +26,3 @@ faiss-cpu
 sentence-transformers
 tiktoken
 protobuf
--e.
